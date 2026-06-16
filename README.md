@@ -1,6 +1,11 @@
 # Brain Tumor Detection using CNN
 
-Deep learning model to classify brain MRI images into tumor vs no-tumor using Convolutional Neural Networks.
+Deep learning model to classify brain MRI images into tumor 
+vs no-tumor using Convolutional Neural Networks.
+
+> Demonstrates end-to-end ML solution delivery in a regulated, 
+> high-stakes domain — from model training to cloud deployment 
+> with CI/CD automation.
 
 ## Results
 - **Validation Accuracy**: 96.8%
